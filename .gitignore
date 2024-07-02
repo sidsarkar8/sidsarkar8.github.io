@@ -10,3 +10,35 @@ Gemfile.lock
 # Ingore files created by npm
 node_modules
 package-lock.json
+
+
+.DS_Store
+
+# Jekyll
+_site/
+*-cache/
+.jekyll-metadata
+
+# Ruby
+.bundle/
+.byebug_history
+.ruby-gemset
+.ruby-version
+*.gem
+Gemfile.lock
+
+# Files
+.analysis
+.DS_Store
+*.swp
+*~
+
+# Folders
+/vendor
+bbin/
+bin/
+coverage
+gh-pages/
+pkg/
+test/dest
+tmp/*
