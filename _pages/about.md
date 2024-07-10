@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in [Statistics at Carnegie Mellon University](http://stat.cmu.edu/), fortunate to be advised by [Arun Kumar Kuchibhotla](https://arun-kuchibhotla.github.io). My primary research interests include statistics, machine learning, and probability, with a focus on developing statistical methods for uncertainty quantification. My research topics encompass:
+I am a Ph.D. student in [Statistics at Carnegie Mellon University](http://stat.cmu.edu/), fortunate to be advised by [Arun Kumar Kuchibhotla](https://arun-kuchibhotla.github.io). My primary research interests include statistics, machine learning, and probability, with a focus on developing statistical methods for uncertainty quantification. My research topics encompass:
 
 * Conformal Inference
 * Assumption-Lean Inference
