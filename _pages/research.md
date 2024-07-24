@@ -23,7 +23,7 @@ author_profile: true
   * Developing methods for deriving confidence intervals for various functionals (e.g., mean or median) under user-specified assumptions (e.g., finite variance or tail behavior), using confidence sets for CDFs.
   * This offers a flexible inference strategy that reduces dependence on strict assumptions and enhances applicability across diverse contexts.
 
-* **Application of post-selection conformal: police officer safety data**
+* **Application of the post-selection conformal method: police officer safety data**
   * Police officers in the USA face significant risks during service calls, making accurate risk assessments crucial for their safety.
   * Black-box machine learning models improve risk assessment by identifying patterns in call data.
   * Conformal inference procedures provide prediction sets with target coverage probability guarantees but traditionally require fixed coverage levels.
