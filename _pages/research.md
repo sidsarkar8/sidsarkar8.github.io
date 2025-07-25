@@ -19,18 +19,14 @@ author_profile: true
 
 ## Current projects
 
-* **Inference based on confidence sets for distributions**
+* **Unified Inference framework for functionals: Assumption-flexible with Post-Selection Guarantees**
   * Developing methods for deriving confidence intervals for various functionals (e.g., mean or median) under user-specified assumptions (e.g., finite variance or tail behavior), using confidence sets for CDFs.
   * This offers a flexible inference strategy that reduces dependence on strict assumptions and enhances applicability across diverse contexts.
 
-* **Application of the post-selection conformal method: police officer safety data**
-  * Police officers in the USA face significant risks during service calls, making accurate risk assessments crucial for their safety.
-  * Black-box machine learning models improve risk assessment by identifying patterns in call data.
-  * Conformal inference procedures provide prediction sets with target coverage probability guarantees but traditionally require fixed coverage levels.
-  * The aim is to apply a conformal inference procedure with a post-selection guarantee for coverage levels (developed [here](https://arxiv.org/abs/2304.06158)), allowing adjustable coverage levels while maintaining the usual guarantees.
-  * This approach enhances risk forecasts, improving officer safety during service calls.
-
-
+* **Inference for quantile-parametrized distributions**
+  * Quantile-based distributions are flexible and widely applicable, but lack closed-form densities, making standard inference challenging.
+  * Classical methods like MLE can yield non-$\sqrt{n}$ and non-normal asymptotic behavior in certain parameter regions, making bootstrap and resampling techniques unreliable.
+  * We develop a new inference framework tailored to parametric models defined via the quantile function, offering principled and assumption-lean alternatives for inference.
 
 * **Random forests and decision trees**
   * Focusing on density estimation trees (DETs), a data-driven partitioning approach for tree-structured density estimation.
